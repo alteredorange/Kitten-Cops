@@ -41,3 +41,15 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Road
+    uniqueID: 281281673
+    locked: 0
+  - name: behind
+    uniqueID: 3605598399
+    locked: 0
+  - name: Player
+    uniqueID: 2995772121
+    locked: 0
+  - name: Foreground
+    uniqueID: 4267484305
+    locked: 0
